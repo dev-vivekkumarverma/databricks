@@ -1,2 +1,7 @@
 # databricks
-spark, databricks, kafka, batch and stream-processing
+`topics covered`
+-  spark
+-  databricks
+-  kafka
+-  batch data processing
+-  stream-processing

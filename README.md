@@ -1,6 +1,6 @@
 # databricks
 `topics covered`
--  spark
+-  pyspark
 -  databricks
 -  kafka
 -  batch data processing

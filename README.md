@@ -1,4 +1,5 @@
-# databricks
+# pyspark-databricks
+
 `topics covered`
 -  pyspark
 -  databricks
